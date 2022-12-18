@@ -3,5 +3,7 @@ public class Main {
 
        SolarSystem jinny= new SolarSystem();
         System.out.println(" solar project");
+        System.out.println(" so\"lar project");
+        System.out.println(" solar project");
     }
 }
